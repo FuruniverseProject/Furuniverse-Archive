@@ -9,9 +9,13 @@ The Furuniverse is not intended to mirror real-world history, science, politics,
 📁 What’s Included
 
 • Three PDF archive volumes
+
 • Image files documenting planets, notes, artwork, and belief statements
+
 • Text summaries and metadata
+
 • Early experimental journals and drafts
+
 • Multiversal and dimensional research concepts
 
 🖼 Featured Image Set
