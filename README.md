@@ -48,6 +48,7 @@ Some documents contain early drafts, handwritten concepts, and experimental narr
 This repository serves as a preserved snapshot of early Furuniverse development.
 
 Internet Archive uploads act as fixed historical records.
+
 Notion pages function as evolving documentation.
 
 Future versions may expand, revise, or reorganize these materials.
