@@ -1,54 +1,83 @@
-🌌 Furuniverse — Foundational Worldbuilding Archive
+# Furuniverse Reality Basement Collection
 
-This repository preserves early and evolving creative material from the Furuniverse: a fictional multiversal setting exploring alternate realities, anthropomorphic civilizations, speculative planetary systems, dimensional structures, and unusual technologies.
+An archival repository preserving fictional worldbuilding materials from the Furuniverse — a multiversal creative setting centered on anthropomorphic civilizations, planetary systems, dimensional structures, and speculative continuity.
 
-Included here are long-form PDF volumes, raw handwritten notes, belief statements, experimental diagrams, planetary maps, and personal early-stage concepts presented as part of a fictional archive.
+This project is presented as documentation and narrative design rather than real-world belief. It includes scanned notes, rewritten summaries, diagrams, images, and multi-part PDF volumes that explore the internal logic of the setting.
 
-The Furuniverse is not intended to mirror real-world history, science, politics, or belief systems. It is a narrative-driven universe built through exploratory writing and speculative documentation.
+---
 
-📁 What’s Included
+## 📘 What Is the Furuniverse?
 
-• Three PDF archive volumes
+The Furuniverse is a fictional cosmology in which reality is structured differently across dimensions. Worlds vary in how densely wildlife, everyday objects, and background life appear — sometimes restrained, sometimes understated, but never absent.
 
-• Image files documenting planets, notes, artwork, and belief statements
+Technology, culture, and species evolve independently in each realm, producing environments unlike those found in our own reality. These materials serve as an evolving reference archive for that universe.
 
-• Text summaries and metadata
+---
 
-• Early experimental journals and drafts
+## 📂 What This Repository Contains
 
-• Multiversal and dimensional research concepts
+### 📄 PDF Volumes
+Multi-part foundational documents collecting early journals, rewritten notes, and structured lore:
+- Furuniverse Reality Basement Collection — Part I
+- Furuniverse Reality Basement Collection — Part II
+- Furuniverse Reality Basement Collection — Part III
 
-🖼 Featured Image Set
+### 🖼️ Images
+Scanned drawings, diagrams, and illustrative materials, including:
+- Planetary size comparisons
+- Furoria reference maps and notes
+- Belief statement poster
+- Species classification pages
+- Personal creative sketches
 
-• This release includes visual artifacts such as:
-My Belief Note.png — in-universe continuity statement
+### 📝 Text Files
+Clean, readable transcriptions and summaries:
+- In-universe belief statement
+- Planetary notes
+- Species categories
+- Dimensional structure
+- Archival disclaimers
 
-• Three Habitable Planets in the Furstar System in Size.jpg
+---
 
-• Look at My Paw Squishy Toy!.jpg
+## ⚠️ Fiction & Archival Notice
 
-• Look at My Stuffs!.jpg
+All Furuniverse content is entirely fictional and created for narrative worldbuilding purposes.
 
-• Note About Furoria.png
+Some materials originate from early experimental writing and personal notebooks and have been preserved for historical and creative reference. Any mention of real-world topics is non-endorsement and contextual only.
 
-• Category About People in the Furuniverse and Across Other Dimensions, Including Furoria!!!.jpg
+This repository does not present scientific, religious, or factual claims about reality.
 
-• Furrymanforme1976 (Rinty SkyCoyote); Nothing Is Impossible!.jpg
+---
 
-⚠️ Important Disclaimer
+## 🌐 External Mirrors & References
 
-All Furuniverse materials are fictional.
+Additional mirrors and context may be hosted on:
+- Internet Archive
+- Notion documentation hub
+- YouTube overview videos
+- Modding community profiles
 
-They are not based on real-world people, tragedies, governments, organizations, religions, or historical events.
+Links to these platforms are provided in the `/docs` directory.
 
-Some documents contain early drafts, handwritten concepts, and experimental narrative notes preserved for archival purposes.
+---
 
-🕰 Archival Intent
+## 📜 Usage & Preservation
 
-This repository serves as a preserved snapshot of early Furuniverse development.
+This archive exists to document an evolving creative universe. Where permitted by license, others may reference, study, or remix the material with attribution.
 
-Internet Archive uploads act as fixed historical records.
+See `LICENSE.txt` for details.
 
-Notion pages function as evolving documentation.
+---
 
-Future versions may expand, revise, or reorganize these materials.
+## 🛠️ Status
+
+This collection is ongoing and may expand with additional volumes, rewritten material, or structured documentation over time.
+
+Version history is tracked in `CHANGELOG.txt`.
+
+---
+
+**Creator:** Rinty SkyCoyote  
+**Project Type:** Fictional Worldbuilding Archive  
+**Universe:** Furuniverse
