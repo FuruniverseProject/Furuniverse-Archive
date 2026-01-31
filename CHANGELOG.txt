@@ -1,0 +1,8 @@
+CHANGELOG — Furuniverse Reality Basement Collection
+
+Version 1.0 — Initial Archive Release
+• Organized PDF volumes into a dedicated folder
+• Added curated image sets
+• Added cleaned text documents
+• Introduced fictional framing and archive disclaimers
+• Established versioning and preservation structure
