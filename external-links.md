@@ -9,8 +9,8 @@ creator.
 
 ## 🗨️ Community Spaces
 
-- **Main Subreddit:** r/FurryManforme1976  
-- **Secondary Subreddit:** r/furuniverse  
+- **Main Subreddit:** r/FurryManforme1976 (https://www.reddit.com/r/FurryManforme1976/)
+- **Secondary Subreddit:** r/furuniverse ((https://www.reddit.com/r/furuniverse/))
 
 These communities may contain announcements, discussions, and creative
 expansions related to Furuniverse materials.
