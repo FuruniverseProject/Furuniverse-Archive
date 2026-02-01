@@ -22,13 +22,13 @@ expansions related to Furuniverse materials.
 Separated mirrors and collections of the **Furuniverse Reality Basement
 Collection** may appear on:
 
-- DeviantArt — Furuniverse Reality Basement Collection
-- Internet Archive — Furuniverse Reality Basement Collection
+- DeviantArt — Furuniverse Reality Basement Collection (https://www.deviantart.com/furryselection101/gallery/95404454/furuniverse-reality-basement-collection)
+- Internet Archive — Furuniverse Reality Basement Collection (https://archive.org/details/@realrintyskyhuskyonia/lists/2/furuniverse-reality-basement-collection)
 
 Creator-associated archive usernames may include:
 
-- **FurrySelection101** (RintySkyCoyote on DeviantArt)  
-- **realRintySkyCoyoteonIA** (Internet Archive)
+- **FurrySelection101** (RintySkyCoyoteonDA) (https://www.deviantart.com/furryselection101)
+- **realRintySkyCoyoteonIA** (Internet Archive) (https://archive.org/details/@realrintyskyhuskyonia)
 
 ---
 
