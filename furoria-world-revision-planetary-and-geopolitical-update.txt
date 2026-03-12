@@ -103,10 +103,10 @@ habitable regions.
 Huskarra
 Third Planet
 
-Diameter: 103,847 km (64,531 mi)
-Radius: 52,598 km (32,266 mi)
+Diameter: 127,420 km (79,180 mi)
+Radius: 63,710 km (39,590 mi)
 
-Approximately 8.25× Earth’s diameter.
+Approximately 10× Earth’s diameter.
 
 Status:
 
@@ -125,10 +125,10 @@ interplanetary research capabilities.
 Furoria
 Fourth Planet
 
-Diameter: 127,420 km (79,180 mi)
-Radius: 63,710 km (39,590 mi)
+Diameter: 402,800 km (250,400 mi)
+Radius: 201,400 km (125,200 mi)
 
-Approximately 10× Earth’s diameter.
+Approximately 31.6× Earth’s diameter.
 
 Status:
 
