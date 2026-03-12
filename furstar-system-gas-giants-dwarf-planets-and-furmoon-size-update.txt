@@ -74,10 +74,10 @@ Classification:
 Superhabitable Gas Giant
 
 Diameter:
-367,549.4 KM (228,385.7 MI)
+768,382 KM (477,466 MI)
 
 Radius:
-183,774.7 KM (114,192.9 MI)
+384,191 KM (238,733 MI)
 
 Overview:
 
