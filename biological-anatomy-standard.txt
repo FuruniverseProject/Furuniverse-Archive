@@ -59,6 +59,26 @@ Digitigrade locomotion does NOT naturally occur in standard anthro citizens.
 - Expressive facial musculature compatible with speech
 
 ------------------------------------------------------------
+SENSORY ENHANCEMENTS
+------------------------------------------------------------
+
+Many anthro species possess mild sensory advantages that are
+naturally integrated into their biology.
+
+Anthro Canines and Anthro Felines commonly possess:
+
+- Natural night vision capability
+- Enhanced low-light visual clarity
+- Improved motion detection in dark environments
+- Slightly enhanced directional hearing
+
+These traits are normal biological adaptations and are not
+considered supernatural abilities.
+
+They allow citizens to function effectively during nighttime
+conditions across urban and wilderness environments.
+
+------------------------------------------------------------
 ANATOMICAL CONSISTENCY ACROSS ERAS
 ------------------------------------------------------------
 
@@ -83,21 +103,48 @@ Certain species primarily live outside Furoria (other planets or dimensions) and
 These abilities are NOT superhero-based.
 They are biologically integrated adaptive traits.
 
+Some of these species also possess mild magical or dimensional
+abilities that are considered normal biological traits within
+their native environments.
+
 ------------------------------------------------------------
 Peditrans / Therians
 ------------------------------------------------------------
 
 Habitat: Primarily outside Furoria (varied planets/dimensions)
 
+Peditrans and Therians are known for possessing natural
+magical-adaptive biological abilities.
+
 Capabilities:
+
 - Automatic short-range dimensional phase-shift
-- Can teleport through thin solid surfaces
+- Ability to teleport through thin solid surfaces
+- Mild magical energy interaction
 - Enhanced lifting strength (moderate)
 - Limited gliding or controlled aerial descent
 - Mild object manipulation enhancement
 
+Transformation Behavior:
+
+Some Peditrans / Therians may experience temporary
+biological transformations when certain energy
+conditions activate their abilities.
+
+These transformations may include:
+
+- partial energy-based body changes
+- temporary morphological adjustments
+- dimensional resonance states
+
+These transformations are controlled, short-lived,
+and are considered a normal biological function
+rather than a supernatural event.
+
 Purpose:
-To improve environmental survival and mobility.
+
+To improve environmental survival and mobility
+in unstable or high-energy dimensional regions.
 
 ------------------------------------------------------------
 Altertherians
@@ -105,15 +152,27 @@ Altertherians
 
 Habitat: Extra-planetary or interdimensional zones
 
+Altertherians are known for possessing advanced
+adaptive biological structures combined with
+mild magical capabilities.
+
 Capabilities:
+
 - Controlled wall-phase movement
 - Mild levitation
 - Enhanced durability
 - Light-object telekinetic assistance
 - Spatial awareness enhancement
+- Limited magical environmental interaction
+
+In rare cases, Altertherians may display mild
+temporary transformations when their abilities
+interact with dimensional energy fields.
 
 Purpose:
-To adapt to unstable or high-gravity environments.
+
+To adapt to unstable, gravity-variable, or
+interdimensional environments.
 
 ------------------------------------------------------------
 Marinians
@@ -122,6 +181,7 @@ Marinians
 Habitat: Oceanic or aquatic-dominant planets
 
 Capabilities:
+
 - Pressure immunity
 - Fluid-environment propulsion
 - Short-range water-phase teleportation
@@ -129,6 +189,7 @@ Capabilities:
 - Mild bioluminescent signaling
 
 Purpose:
+
 To improve aquatic civilization efficiency.
 
 ------------------------------------------------------------
@@ -138,6 +199,7 @@ Reptilians
 Habitat: Outside Furoria (varied climates)
 
 Capabilities:
+
 - Automatic thermal regulation
 - Wall-surface adhesion
 - Short-range spatial blink (micro-teleport)
@@ -145,6 +207,7 @@ Capabilities:
 - Enhanced lifting strength (moderate)
 
 Purpose:
+
 To improve daily mobility and environmental adaptation.
 
 ------------------------------------------------------------
@@ -154,17 +217,20 @@ BERDORONS
 Habitat: Furoria and allied planets
 
 Body Type:
+
 - Human-like plantigrade structure
 - Avian-influenced cranial features
 - Light skeletal density (within safe range)
 
 Abilities (Mild):
+
 - Controlled glide (not full superhero flight)
 - Heightened spatial perception
 - Light endurance boost
 - Mild kinetic stabilization while airborne
 
 Purpose:
+
 Assist with terrain mobility and vertical cities.
 
 ------------------------------------------------------------
@@ -174,17 +240,20 @@ PRIMATARINS
 Habitat: Furoria and allied planets
 
 Body Type:
+
 - Human-like plantigrade form
 - Primate-inspired cranial structure
 - Enhanced shoulder flexibility
 
 Abilities (Mild):
+
 - Increased grip strength
 - Enhanced climbing efficiency
 - Mild reaction-time acceleration
 - Improved balance
 
 Purpose:
+
 Adaptation to dense urban and forested environments.
 
 ------------------------------------------------------------
