@@ -1,0 +1,691 @@
+furoria-automotive-industry-era-classification.txt
+
+FURORIA AUTOMOTIVE INDUSTRY ERA CLASSIFICATION
+Calendar System: BZE / ZE
+Biomechanical Standard: Plantigrade legs, human-like feet
+Pedal Layout Standard: clutch / brake / accelerator (manual)
+brake / accelerator (automatic)
+
+Automotive evolution focuses on technology, culture, and design.
+Biomechanics never changed across history.
+
+------------------------------------------------------------
+CRYSTAL ENGINE PERFORMANCE REFERENCE
+------------------------------------------------------------
+
+Crystal Energy Core Performance
+
+Standard Civilian Crystal Core
+Typical top speed capability:
+200–340 km/h
+
+High Output Performance Crystal Core
+Typical top speed capability:
+340–550 km/h
+
+Extreme Performance Crystal Core
+Typical top speed capability:
+550–700 km/h
+
+
+Reaction Chamber Performance
+
+Spark Ignition Chambers
+(Hypergasoline / AetherSpark Engines)
+
+Characteristics
+high RPM
+fast throttle response
+high peak horsepower
+
+Typical speed ranges
+
+civilian vehicles
+200–340 km/h
+
+performance sports vehicles
+400–550 km/h
+
+extreme racing vehicles
+550–700 km/h
+
+
+Compression Chambers
+(Hyperdiesel / Core Compression Engines)
+
+Characteristics
+massive torque
+lower RPM
+extremely durable
+
+Typical speed ranges
+
+cargo trucks
+160–240 km/h
+
+heavy performance trucks
+240–340 km/h
+
+extreme torque transport vehicles
+300–420 km/h
+
+
+Crystal Fusion Systems
+
+Dual-Core Fusion Systems
+two crystal cores feeding one engine
+
+Typical speed capability
+450–650 km/h
+
+
+Multi-Core Fusion Systems
+three or more crystal cores
+
+Typical speed capability
+600–800 km/h
+
+
+Planetary Fusion Systems
+distributed cores feeding large engines
+
+Typical speed capability
+200–320 km/h
+(mainly heavy megahaulers)
+
+
+Hybrid Crystal Systems
+
+Crystal-Electric Hybrid
+
+crystal engine with electric motors
+
+Typical speed capability
+280–420 km/h
+
+
+Crystal-Torque Hybrid
+
+hyperdiesel compression engine
+with electric torque assist
+
+Typical speed capability
+240–360 km/h
+
+
+Performance Hybrid Systems
+
+hypergasoline crystal engine
+multiple electric motors
+multi-core fusion
+
+Typical speed capability
+600–900 km/h
+
+
+------------------------------------------------------------
+AUTOMOTIVE ORIGINS PHASE
+Proto-Mechanical Era
+500 Billion BZE – 950 Million BZE
+------------------------------------------------------------
+
+Civilization Context
+Late Pre-Industrial / Middle Classical stabilization.
+
+Vehicles
+Very rare experimental mechanical ground vehicles.
+
+Characteristics
+• extremely large wheels
+• heavy mechanical frames
+• low speed
+• mostly engineering experiments
+• vehicles owned by scientific guilds
+
+Propulsion Technology
+Early crystal energy systems appear.
+
+Crystal Energy Core
+• primitive crystal power cells
+• unstable energy output
+• large containment housings
+
+Engine Architecture
+Simple layouts dominate:
+
+single cylinder
+inline-2
+inline-3
+
+Power Output
+Very low power by modern standards.
+
+Engine Type
+early AetherSpark crystal ignition engines
+(primitive hypergasoline equivalents)
+
+Top Speed
+30–90 km/h
+
+Cooling
+belt-driven mechanical radiator fans
+or passive airflow cooling
+
+Transmissions
+mechanical gear drives
+primitive clutch systems
+
+Vehicle Types
+experimental land carriages
+engineering demonstration vehicles
+
+------------------------------------------------------------
+FIRST TRUE AUTOMOTIVE ERA
+Foundational Mechanical Era
+950 Million BZE – 300 Million BZE
+------------------------------------------------------------
+
+First mass-manufactured vehicles appear.
+
+Design Inspiration Equivalent
+Vintage / early mechanical vehicles
+
+Design Characteristics
+
+• exposed mechanical parts
+• vertical grille structures
+• circular headlamps
+• external fenders
+• thick steel frames
+
+Crystal Engine Systems
+
+Crystal Energy Core
+standard civilian cores appear
+
+Reaction Chambers
+spark ignition crystal chambers
+
+Engine Layouts
+
+Inline engines dominate:
+
+inline-3
+inline-4
+inline-6
+
+Motorcycles
+
+single cylinder
+parallel twin
+inline-3 experimental racing engines
+
+Truck Engines
+
+early compression crystal engines appear
+
+Hyperdiesel Prototype Engines
+
+Used in cargo haulers.
+
+Common layouts
+
+inline-4 compression engines
+inline-6 compression engines
+
+Vehicle Types
+
+passenger touring cars
+cargo vehicles
+agricultural vehicles
+early motorcycles
+
+Top Speeds
+
+civilian vehicles
+120–180 km/h
+
+------------------------------------------------------------
+MECHANICAL REFINEMENT ERA
+Industrial Streamline Era
+300 Million BZE – 50 Million BZE
+------------------------------------------------------------
+
+Design begins emphasizing aerodynamics.
+
+Characteristics
+
+• integrated body panels
+• enclosed passenger cabins
+• smoother body lines
+• first luxury vehicles
+
+Crystal Engine Development
+
+AetherSpark Engines
+(hypergasoline equivalents)
+
+Graviton Compression Engines
+(hyperdiesel equivalents)
+
+Engine Layouts
+
+Inline engines remain dominant.
+
+inline-4
+inline-6
+
+V-type engines emerge.
+
+V6
+V8
+
+Motorcycle engines
+
+parallel twin
+inline-3
+inline-4
+
+Heavy Truck Engines
+
+large hyperdiesel inline-6 engines
+
+Early Two-Stroke Hyperdiesel Systems
+
+Used in industrial equipment.
+
+These engines operate with:
+
+compression crystal ignition
+dual-cycle power delivery
+
+Advantages
+
+• high torque
+• compact design
+• high power density
+
+Vehicle Classes
+
+passenger vehicles
+cargo trucks
+touring vehicles
+motorcycles
+
+Cooling Systems
+
+belt-driven fans remain common.
+
+------------------------------------------------------------
+EXPANSION & POWER ERA
+High Compression Era
+50 Million BZE – 5 Million BZE
+------------------------------------------------------------
+
+Performance culture begins.
+
+Design Characteristics
+
+• long hood proportions
+• wide vehicle stance
+• chrome-like metals
+• bold styling
+
+Engine Expansion
+
+Large crystal engines appear.
+
+Layouts
+
+inline-6
+V8
+V10
+V12
+
+Muscle-class vehicles appear.
+
+Crystal Engine Types
+
+AetherSpark high-RPM engines
+(hypergasoline)
+
+Core Compression Drives
+(hyperdiesel)
+
+Truck Engine Development
+
+Heavy trucks widely adopt hyperdiesel engines.
+
+Two-Stroke Hyperdiesel Truck Engines
+
+Inspired by classic industrial engines.
+
+Typical layouts
+
+inline-3
+inline-4
+inline-6
+V6
+
+These engines produce extremely high torque.
+
+Example Engine Families
+(in-universe equivalents)
+
+Titan-Core Series
+(two-stroke compression engines)
+
+IronPulse Series
+heavy-duty compression engines
+
+Vehicle Types
+
+muscle vehicles
+cargo trucks
+sports cars
+motorcycles
+
+Top Speed
+
+muscle vehicles
+320–420 km/h
+
+sports vehicles
+380–500 km/h
+
+Cooling
+
+belt-driven fans
+clutch-controlled mechanical fans
+
+------------------------------------------------------------
+GRAND TOURING ERA
+Continental Prestige Era
+5 Million BZE – 100,000 BZE
+------------------------------------------------------------
+
+Luxury and long-distance touring dominate.
+
+Design
+
+• refined aerodynamics
+• comfortable interiors
+• advanced suspension
+
+Engine Technology
+
+crystal energy systems become extremely reliable.
+
+Common Layouts
+
+inline-4
+inline-6
+V6
+V8
+V12
+
+Motorcycle Engines
+
+parallel twin
+inline-3
+inline-4
+
+Truck Engines
+
+large inline-6 hyperdiesel engines dominate.
+
+Two-stroke hyperdiesel engines still common.
+
+Cooling
+
+clutch mechanical fans widely used.
+
+Vehicle Types
+
+luxury touring cars
+sports vehicles
+cargo haulers
+motorhomes
+pickup-class vehicles
+
+------------------------------------------------------------
+EFFICIENCY TRANSITION ERA
+Efficiency Regulation Era
+100,000 BZE – 10,000 BZE
+------------------------------------------------------------
+
+Focus shifts toward efficiency.
+
+Characteristics
+
+• smaller vehicles
+• lighter materials
+• strict energy efficiency standards
+
+Engine Technology
+
+crystal electric hybrid systems appear.
+
+Hybrid Types
+
+Crystal-Electric Hybrid
+Crystal-Torque Hybrid
+
+Engine Layouts
+
+inline-3
+inline-4
+inline-6
+V6
+
+Cooling Systems
+
+electric radiator fans become dominant.
+
+Truck Engines
+
+4-stroke hyperdiesel engines increasingly common.
+
+Two-stroke engines still used in older trucks.
+
+------------------------------------------------------------
+TECHNO-REFINEMENT ERA
+Electronic Integration Era
+10,000 BZE – 1,501 BZE
+------------------------------------------------------------
+
+Vehicle intelligence systems appear.
+
+Features
+
+• stability control
+• automated transmissions
+• advanced safety structures
+
+Engine Layouts
+
+inline-4
+inline-6
+V6
+V8
+
+Motorcycle Engines
+
+parallel twin
+inline-3
+inline-4
+
+Truck Engines
+
+large inline-6 hyperdiesel
+V8 hyperdiesel
+
+Cooling Systems
+
+electric fan systems standard.
+
+------------------------------------------------------------
+PRE-MODERN ADVANCED ERA
+Pre-Zero Synthesis Era
+1,500 BZE – 1 BZE
+------------------------------------------------------------
+
+Vehicles blend classic design and advanced technology.
+
+Characteristics
+
+• high durability
+• perfected crystal energy systems
+• strong cultural vehicle identity
+
+Crystal Fusion Systems
+
+Dual-Core Fusion engines appear.
+
+Vehicle Types
+
+muscle vehicles
+luxury cruisers
+sports vehicles
+pickup trucks
+motorhomes
+motorcycles
+
+Top Speeds
+
+sports cars
+400–550 km/h
+
+hypercars
+600–900 km/h
+
+------------------------------------------------------------
+ZERO EVENT
+0 ZE
+------------------------------------------------------------
+
+Calendar reset.
+
+Automotive technology unchanged.
+
+------------------------------------------------------------
+EARLY MODERN ERA
+Neo-Classic Modern Era
+0 ZE – 1800 ZE
+------------------------------------------------------------
+
+Vehicles adopt perfected classic proportions.
+
+Crystal Engine Systems
+
+high-efficiency cores
+advanced energy regulators
+
+Engine Layouts
+
+inline-4
+inline-6
+V6
+V8
+V10
+V12
+
+Hybrid Systems
+
+crystal electric hybrids widely used.
+
+Cooling
+
+multi-fan electric cooling systems.
+
+Vehicle Types
+
+muscle vehicles
+sports cars
+luxury cruisers
+motorcycles
+cargo trucks
+
+------------------------------------------------------------
+INTERPLANETARY AGE
+Planetary Identity Era
+1801 ZE – 7500 ZE
+------------------------------------------------------------
+
+Vehicles become cultural objects.
+
+Teleportation replaces most transportation needs.
+
+Vehicle Purposes
+
+recreation
+motorsport
+personal identity
+
+Engine Technology
+
+multi-core fusion engines appear in hypercars.
+
+Motorcycle development continues.
+
+Truck Engines
+
+4-stroke hyperdiesel engines dominate heavy transport.
+
+------------------------------------------------------------
+TRANS-DIMENSIONAL AGE
+Cultural Preservation Era
+7501 ZE – Present
+------------------------------------------------------------
+
+Automotive culture preserved for heritage.
+
+Design Philosophy
+
+slow evolution
+retro design revivals
+handcrafted vehicles
+
+Engine Technology
+
+crystal engines still widely used.
+
+Manual transmissions remain popular among enthusiasts.
+
+Vehicle Types
+
+muscle vehicles
+hypercars
+luxury cruisers
+motorcycles
+cargo trucks
+heritage recreation vehicles
+
+Top Speeds
+
+utility vehicles
+160–240 km/h
+
+luxury touring
+280–340 km/h
+
+muscle vehicles
+320–420 km/h
+
+sports cars
+400–550 km/h
+
+hypercars
+600–900 km/h
+
+------------------------------------------------------------
+AUTOMOTIVE CULTURAL RULES
+------------------------------------------------------------
+
+• All vehicles across history designed for plantigrade feet.
+• Pedal layout never changed.
+• Mechanical engines remain popular due to heritage.
+• Automotive evolution focuses on style and craftsmanship rather than extreme speed.
+• Vehicles serve identity, motorsport, and recreation roles in modern society.
+
+The Furoria automotive industry therefore spans nearly one billion years of technological evolution.
