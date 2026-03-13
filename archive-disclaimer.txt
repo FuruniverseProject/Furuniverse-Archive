@@ -1,0 +1,8 @@
+📄 archive-disclaimer.txt
+Title: Archival Purpose, Attribution, and Fiction Notice
+
+This document explains why these materials are being preserved and shared publicly. It clarifies that the Furuniverse is a fictional creative project and that included writings, sketches, images, and journals may originate from early experimental drafts or evolving ideas.
+
+It also states that some materials reference real-world topics only in passing and without endorsement, and that all worldbuilding content should be understood as speculative storytelling rather than belief, instruction, or real-world guidance.
+
+This file establishes the archival intent of the repository and encourages respectful use, citation, and remixing where permitted.
