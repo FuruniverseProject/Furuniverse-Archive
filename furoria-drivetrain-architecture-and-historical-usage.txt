@@ -1,0 +1,324 @@
+FILE: furoria-drivetrain-architecture-and-historical-usage.txt
+
+
+FURORIA AUTOMOTIVE INDUSTRY
+DRIVETRAIN ARCHITECTURE AND HISTORICAL USAGE
+
+This document explains the drivetrain standards used across
+the Furorian automotive industry throughout major
+civilization eras.
+
+The primary drivetrain layout across most of Furorian
+automotive history is:
+
+Rear-Wheel Drive (RWD)
+
+Front-Wheel Drive (FWD) and FWD-based All-Wheel Drive
+configurations do exist, but they are considered uncommon
+compared to the dominant longitudinal RWD architecture.
+
+These layouts are primarily used for:
+
+- sedan-equivalent vehicles
+- station wagon–equivalent vehicles
+- two-door vehicles
+- coupe-equivalent vehicles
+
+Pickup-equivalent and SUV-equivalent vehicles almost
+always use longitudinal engines with 4x4 / 4WD systems.
+
+
+============================================================
+PRIMARY DRIVETRAIN STANDARD
+============================================================
+
+RWD (Rear-Wheel Drive)
+
+Primary configuration across most eras.
+
+Characteristics:
+
+- Longitudinally mounted engines
+- Strong performance balance
+- Preferred for larger engines
+- Compatible with V6-equivalent and V8-equivalent engines
+
+RWD remains the most common drivetrain configuration
+throughout nearly the entire automotive history of Furoria.
+
+It is especially dominant in:
+
+- luxury vehicles
+- performance vehicles
+- long-distance touring vehicles
+- executive sedans
+
+
+============================================================
+SECONDARY DRIVETRAIN STANDARD
+============================================================
+
+FWD (Front-Wheel Drive)
+
+Status:
+
+Uncommon but present during specific historical periods.
+
+Typical Uses:
+
+- compact sedans
+- mid-size sedans
+- some station wagons
+- some coupes
+
+Characteristics:
+
+- Transversely mounted engines
+- improved packaging efficiency
+- reduced drivetrain complexity
+
+Manufacturing Origins:
+
+Some FWD and FWD-based AWD models were produced
+primarily in:
+
+- Aeralith
+- Ducklandia
+
+These vehicles sometimes used:
+
+- V6-equivalent engines
+- V8-equivalent engines
+- experimental crystal-based power systems
+
+However, these configurations were never the dominant
+industry standard.
+
+
+============================================================
+FWD-BASED AWD SYSTEMS
+============================================================
+
+FWD-based AWD systems existed in small numbers.
+
+Classification:
+
+Rare to uncommon.
+
+Typical Uses:
+
+- luxury touring sedans
+- advanced engineering demonstration models
+- experimental high-traction vehicles
+
+Most examples were developed by manufacturers in
+Aeralith and Ducklandia.
+
+Despite these developments, RWD systems remained
+preferred across most industries.
+
+
+============================================================
+ENGINE ORIENTATION HISTORY
+============================================================
+
+Longitudinal Engines
+
+Used primarily with:
+
+- RWD vehicles
+- 4x4 / 4WD vehicles
+- pickup-equivalent vehicles
+- SUV-equivalent vehicles
+
+This configuration remained the most stable and widely
+used architecture across Furorian history.
+
+
+Transverse Engines
+
+Primarily used in:
+
+- FWD vehicles
+- FWD-based AWD vehicles
+
+This configuration became more common during
+efficiency-focused eras but never fully replaced
+longitudinal layouts.
+
+
+============================================================
+HISTORICAL ERA USAGE
+============================================================
+
+
+GRAND TOURING ERA
+Continental Prestige Era
+
+5,000,000 BZE – 100,000 BZE
+
+Primary drivetrain:
+
+RWD with longitudinal engines
+
+Characteristics:
+
+- large touring vehicles
+- prestige automobiles
+- powerful engines
+- early high-performance transportation
+
+FWD systems were essentially nonexistent during this era.
+
+
+
+------------------------------------------------------------
+
+
+EFFICIENCY TRANSITION ERA
+Efficiency Regulation Era
+
+100,000 BZE – 10,000 BZE
+
+Drivetrain development:
+
+- RWD remained dominant
+- FWD and FWD-based AWD introduced in limited numbers
+
+Engine orientation:
+
+- longitudinal
+- early transverse layouts
+
+This era marked the beginning of drivetrain experimentation
+for efficiency and packaging improvements.
+
+
+
+------------------------------------------------------------
+
+
+TECHNO-REFINEMENT ERA
+Electronic Integration Era
+
+10,000 BZE – 1,501 BZE
+
+Drivetrain characteristics:
+
+- FWD systems became more common but still secondary
+- transverse engine designs expanded
+
+RWD vehicles remained preferred for:
+
+- performance
+- executive vehicles
+- large vehicles
+
+
+
+------------------------------------------------------------
+
+
+PRE-MODERN ADVANCED ERA
+Pre-Zero Synthesis Era
+
+1,500 BZE – 1 BZE
+
+Drivetrain usage:
+
+- transverse FWD vehicles became moderately present
+- RWD still dominant across most vehicle classes
+
+Advanced technologies began appearing in
+high-end vehicles.
+
+
+
+------------------------------------------------------------
+
+
+ZERO EVENT
+0 ZE
+
+
+
+------------------------------------------------------------
+
+
+EARLY MODERN ERA
+Neo-Classic Modern Era
+
+0 ZE – 1800 ZE
+
+Drivetrain transition:
+
+Early to Mid Era:
+
+- some FWD and FWD-based AWD vehicles still produced
+- transverse engines used for compact vehicles
+
+Mid Era:
+
+Production of FWD and FWD-based AWD vehicles
+gradually ended.
+
+Industry returned primarily to:
+
+RWD longitudinal architecture.
+
+
+
+============================================================
+SPECIAL VEHICLE CATEGORIES
+============================================================
+
+
+Pickup-Equivalent Vehicles
+
+Standard drivetrain:
+
+4x4 / 4WD
+
+Characteristics:
+
+- longitudinal engines
+- heavy-duty chassis
+- utility-focused design
+
+
+
+SUV-Equivalent Vehicles
+
+Standard drivetrain:
+
+4x4 / 4WD
+
+Characteristics:
+
+- longitudinal engines
+- off-road capability
+- multi-purpose transport
+
+
+
+============================================================
+SUMMARY
+============================================================
+
+Across the entire automotive history of Furoria:
+
+RWD with longitudinal engines remained the dominant
+vehicle architecture.
+
+FWD and FWD-based AWD systems existed but were
+considered uncommon and limited to specific vehicle
+segments and historical periods.
+
+By the mid Early Modern Era, most manufacturers
+fully returned to RWD architectures for long-term
+engineering stability and cultural preference.
+
+
+------------------------------------------------------------
+END OF DOCUMENT
+------------------------------------------------------------
