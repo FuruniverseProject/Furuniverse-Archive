@@ -1,19 +1,3 @@
-# Furuniverse Reality Basement Collection
-### Foundational Worldbuilding Archive
-
-This repository preserves and organizes the **Furuniverse Reality Basement Collection** — a long-form fictional worldbuilding archive exploring alternate realities, anthropomorphic civilizations, planetary systems, advanced technological societies, and multiversal structure.
-
-The **Furuniverse** is an original speculative setting where existence operates differently from our own universe. Worlds, species, technology, environments, and everyday objects follow internal dimensional logic rather than real-world history, physics, or biological systems.
-
-Wildlife and minor creatures exist within these worlds but may appear subtle, rare, or selectively visible depending on dimensional conditions and environmental rules. Daily life across the Furuniverse is shaped by the internal logic of each civilization and planetary system rather than Earth's historical development.
-
-# Furuniverse Reality Basement Collection
-### Foundational Worldbuilding Archive
-
-This repository preserves and organizes the **Furuniverse Reality Basement Collection** — a long-form fictional worldbuilding project exploring alternate realities, anthropomorphic civilizations, planetary systems, and multiversal structure.
-
-The Furuniverse is an original speculative setting where existence operates differently from our own. Worlds, species, technology, environments, and everyday objects follow internal dimensional rules rather than real-world history or physics. Wildlife and minor creatures may exist but are often subtle or selectively visible, and everyday life is shaped by the unique internal logic of each world.
-
 # Furuniverse Reality Basement Collection  
 ### Foundational Worldbuilding Archive
 
