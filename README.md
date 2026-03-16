@@ -22,11 +22,11 @@ Together these materials document the gradual development of the **Furuniverse w
 
 # 📁 Repository Structure
 
-"**furuniverse-canon-updates**/"
+**furuniverse-canon-updates/**
 
 Canonical update documents for the Furuniverse setting.
 
-This folder currently contains 7 text files describing official revisions and structured documentation for the Furuniverse planetary system and civilizations.
+This folder currently contains **7 text files** describing official revisions and structured documentation for the Furuniverse planetary system and civilizations.
 
 These files include subjects such as:
 
@@ -38,11 +38,11 @@ These files include subjects such as:
 
 ---
 
-"Furoria-auto-standards/"
+**Furoria-auto-standards/**
 
 Automotive engineering and vehicle history documentation.
 
-This folder currently contains 1 technical text file describing:
+This folder currently contains **1 technical text file** describing:
 
 - drivetrain architecture history
 - automotive industry eras
@@ -50,15 +50,15 @@ This folder currently contains 1 technical text file describing:
 
 ---
 
-"images-update/"
+**images-update/**
 
 Visual reference materials and update announcements.
 
 This folder contains several image files used for documentation and reference within the project:
 
-- My Belief Note.png
-- The 3 Advanced Major Civilization Planets in the Furstar System in Size.jpg
-- Note About Furoria (Update).png
+**- My Belief Note.png**
+**- The 3 Advanced Major Civilization Planets in the Furstar System in Size.jpg**
+**- Note About Furoria (Update).png**
 
 These images provide visual explanations and supporting context for the written documentation contained in the repository.
 
@@ -68,23 +68,23 @@ These images provide visual explanations and supporting context for the written 
 
 The archive may include the following types of content:
 
-PDF Volumes
+**PDF Volumes**
 Multi-part collections of journals and long-form documentation.
 
-Images
+**Images**
 Diagrams, planetary scale comparisons, maps, sketches, and visual notes.
 
-Text Files
+**Text Files**
 Structured documentation, explanations, updates, and internal reference records.
 
-Archival Notes
+**Archival Notes**
 Version history, disclaimers, preservation details, and documentation updates.
 
 ---
 
 # 📌 Fiction Notice
 
-All material contained in this repository is entirely fictional and created solely for creative worldbuilding purposes.
+All material contained in this repository is **entirely fictional** and created solely for creative worldbuilding purposes.
 
 Nothing in this repository is intended to represent:
 
@@ -101,7 +101,7 @@ Any resemblance to real-world elements is coincidental or used strictly as narra
 
 # 🕰️ Archival Intent
 
-This repository functions as a long-term archival reference rather than a finished story.
+This repository functions as a **long-term archival reference** rather than a finished story.
 
 Some documents originate from:
 
@@ -109,7 +109,7 @@ Some documents originate from:
 - exploratory notes
 - developmental journals
 
-They are preserved to document the evolution of the Furuniverse concept over time.
+They are preserved to document the **evolution of the Furuniverse concept over time.**
 
 Future updates may reorganize, refine, or expand the archive while maintaining historical versions of the material.
 
@@ -117,7 +117,7 @@ Future updates may reorganize, refine, or expand the archive while maintaining h
 
 # 👤 Creator
 
-Rinty SkyCoyote
+**Rinty SkyCoyote**
 Creator of the Furuniverse worldbuilding project.
 
 ---
@@ -126,4 +126,4 @@ Creator of the Furuniverse worldbuilding project.
 
 See LICENSE.txt for reuse permissions and attribution requirements.
 
-All original materials remain part of the Furuniverse creative archive.
+All original materials remain part of the **Furuniverse creative archive.**
