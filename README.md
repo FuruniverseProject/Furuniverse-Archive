@@ -57,7 +57,9 @@ Visual reference materials and update announcements.
 This folder contains several image files used for documentation and reference within the project:
 
 **- My Belief Note.png**
+
 **- The 3 Advanced Major Civilization Planets in the Furstar System in Size.jpg**
+
 **- Note About Furoria (Update).png**
 
 These images provide visual explanations and supporting context for the written documentation contained in the repository.
