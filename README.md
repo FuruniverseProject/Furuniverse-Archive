@@ -14,120 +14,150 @@ This repository preserves and organizes the **Furuniverse Reality Basement Colle
 
 The Furuniverse is an original speculative setting where existence operates differently from our own. Worlds, species, technology, environments, and everyday objects follow internal dimensional rules rather than real-world history or physics. Wildlife and minor creatures may exist but are often subtle or selectively visible, and everyday life is shaped by the unique internal logic of each world.
 
-This archive contains the early journals, canonical revisions, diagrams, planetary records, species classifications, dimensional mechanics, and experimental writings that helped form the Furuniverse setting.
+# Furuniverse Reality Basement Collection  
+### Foundational Worldbuilding Archive
 
 
----
+This repository preserves and organizes the **Furuniverse Reality Basement Collection** — a long-form fictional worldbuilding archive exploring alternate realities, anthropomorphic civilizations, planetary systems, and multiversal structures.
 
-# Repository Structure
-
-The archive is organized into several core folders that preserve different aspects of the project.
-
-## 📁 furuniverse-canon-updates
-
-This folder contains the most recent **canonical structural updates** to the Furuniverse worldbuilding framework.
-
-Current files include:
-
-- planetary and astronomical revisions
-- technological and civilization timelines
-- computing and electronics standards
-- biological anatomy standards
-- automotive industry era classifications
-- gas giant and dwarf planet size updates
-- Furstar System planetary documentation
-
-These documents serve as the **current internal reference canon** for the Furuniverse setting.
+The Furuniverse is an original speculative setting where existence operates differently from our own. Worlds, species, technology, environments, and everyday objects follow internal dimensional rules rather than real-world history, physics, or biology. Wildlife and minor creatures exist but may be subtle, selectively visible, or limited compared to Earth’s ecosystems. Daily life within the setting is shaped by the internal logic of each world rather than real-world systems.
 
 
----
+------------------------------------------------------------
 
-## 📁 Furoria-auto-standards
+## Repository Structure
 
-This folder contains technical documentation related to **automotive engineering and drivetrain standards** used within the civilization of Furoria.
+This repository currently contains several organized folders representing different aspects of the Furuniverse archive.
 
-It currently includes:
+### 📁 furuniverse-canon-updates
+Contains canonical update documents for the Furuniverse setting.
 
-- drivetrain architecture standards
-- historical drivetrain usage
-- vehicle layout classifications across different eras
+Includes multiple TXT reference files such as:
 
-These documents describe how vehicles evolve across the long technological history of Furoria.
+- planetary system revisions  
+- geopolitical world structure updates  
+- biological and anatomical standards  
+- technological and computing standards  
+- civilization development timelines  
+
+These documents serve as the **core reference materials** for the evolving Furuniverse canon.
 
 
----
+### 📁 Furoria-auto-standards
+Contains technical documentation related to the **automotive and transportation standards of Furoria**.
 
-## 📁 images-update
+Currently includes:
 
-This folder contains reference images and visual documentation connected to Furuniverse revisions and notes.
+- drivetrain architecture documentation  
+- historical automotive design eras  
+- vehicle engineering conventions within the setting
 
-Current images include:
 
-- **My Belief Note.png**
-- **The 3 Advanced Major Civilization Planets in the Furstar System in Size.jpg**
+### 📁 images-update
+Contains visual reference material for the archive.
+
+Current image files include:
+
+- **My Belief Note.png**  
+- **The 3 Advanced Major Civilization Planets in the Furstar System in Size.jpg**  
 - **Note About Furoria (Update).png**
 
-These images serve as visual reference material connected to the written archive.
+These images provide visual summaries, diagrams, and notes related to the project’s development.
 
 
----
+------------------------------------------------------------
 
-# 📄 Additional Archive Materials
+## Archive Contents
 
-Other content within the repository may include:
+The collection may include:
 
-**PDF Volumes**  
-Multi-part collections of long-form journals and early foundational notes.
+- PDF Volumes — long-form journals and foundational notes  
+- Images — diagrams, maps, sketches, and concept visuals  
+- Text Files — cleaned documentation and reference files  
+- Archival Notes — version records and project explanations  
 
-**Text Files**  
-Structured worldbuilding documentation and reference materials.
-
-**Images**  
-Concept diagrams, scale charts, planetary comparisons, and development notes.
-
-**Archival Notes**  
-Versioning records and historical preservation notes.
+Some documents originate from early drafts or experimental writings preserved to document the project's evolution.
 
 
----
+------------------------------------------------------------
 
-# 📌 Fiction Notice
+## Personal Context
 
-All material contained in this repository is **entirely fictional** and created strictly for creative worldbuilding purposes.
+The **Furuniverse Reality Basement Collection** also contains elements of the creator’s:
 
-Nothing in this archive is intended to represent real people, real historical events, real tragedies, religions, organizations, or factual claims about reality.
+- personal belief system *(fictional worldview within the project)*  
+- creative writing experiments  
+- early reflections and journal notes  
+- stories about school, childhood, teenage years, and other personal experiences  
 
-Any resemblance to real-world elements is coincidental or used purely as narrative inspiration.
+These writings are preserved as part of the archive’s developmental history and creative process.
 
-
----
-
-# 🕰️ Archival Intent
-
-This repository functions primarily as a **long-term archival record** rather than a finished narrative project.
-
-Some materials originate from:
-
-- early experimental writing
-- developmental notes
-- exploratory journals
-- evolving canonical structures
-
-These documents are preserved to show the **historical evolution of the Furuniverse concept**.
-
-Future updates may refine, reorganize, or expand the collection, but the materials currently present remain as a preserved snapshot of the project's development.
+The belief concepts described within the project are **not real-world claims**, but part of the fictional and speculative framework of the Furuniverse.
 
 
----
+------------------------------------------------------------
 
-# 👤 Creator
+## Content Notice
+
+Some pages within this archive may contain references to sensitive or serious subject matter.
+
+Topics may include discussions of:
+
+- tragedies  
+- disasters  
+- violence  
+- distressing historical or fictional events  
+
+These discussions appear primarily in journal reflections or narrative context.
+
+**Reader discretion is advised.**
+
+
+------------------------------------------------------------
+
+## Fiction Notice
+
+All material in this repository is **entirely fictional and created for creative worldbuilding purposes**.
+
+Nothing in this archive is intended to represent:
+
+- real people  
+- real events  
+- real tragedies  
+- historical figures  
+- real organizations  
+- real religions  
+- factual claims about reality  
+
+Any resemblance to real-world elements is coincidental or used only for narrative inspiration.
+
+
+------------------------------------------------------------
+
+## Archival Intent
+
+This repository functions primarily as a **long-term reference archive** rather than a finished narrative work.
+
+Many materials were preserved intentionally to document the **historical development of the Furuniverse concept**, including early drafts and exploratory notes.
+
+Future updates may reorganize or refine parts of the archive, but the current materials remain as a snapshot of the project’s evolution.
+
+
+------------------------------------------------------------
+
+## Creator
 
 **Rinty SkyCoyote**  
-(Furuniverse Creator and Archive Maintainer)
+(FurryManforme / Rinty SkyHusky)
 
 
----
+------------------------------------------------------------
 
-# 📜 License & Use
+## License & Use
 
-See `LICENSE.txt` for reuse, attribution, and archival usage terms.
+See `LICENSE.txt` for reuse, attribution, and distribution terms.
+
+
+------------------------------------------------------------
+End of Archive Description
+------------------------------------------------------------
