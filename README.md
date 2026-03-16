@@ -124,6 +124,6 @@ Creator of the Furuniverse worldbuilding project.
 
 # 📜 License & Use
 
-See **LICENSE.txt** for reuse permissions and attribution requirements.
+See `LICENSE.txt` for reuse permissions and attribution requirements.
 
 All original materials remain part of the **Furuniverse creative archive.**
